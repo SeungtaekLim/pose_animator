@@ -1,1 +1,1 @@
-with yolov11 poes
+with yolov11 poes.
